@@ -4,7 +4,7 @@ Shubham Bansal
 
 shubhambansal17@hotmail.com
 
-##Summary:
+#Summary:
 
 I Shubham Bansal will always do my best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. I have no desire to trick you into signing something that you might later regret. I do want what's best for the safety of both parties, now and in the future.
 
