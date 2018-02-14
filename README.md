@@ -95,7 +95,6 @@ Just like a parking ticket, you cannot transfer this contract to anyone else wit
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of New Delhi courts.
 
-### The dotted line
 
 
 __________________________________________________
