@@ -10,7 +10,7 @@ I will always do our best to fulfill your needs and meet your goals, but sometim
 
 ####In short:
 
-You Macher Labs are hiring me Shubham Bansal to make the frontend of your CHMS backend at the complete cost of 25k in INR. Of course it's a little more complicated, but i'll get to that.
+You Macher Labs are hiring me Shubham Bansal to make the frontend of your CHMS backend which includes hardly 4 pages with sample UI just to explain your feartures and make things working at the complete cost of 25k in INR. Of course it's a little more complicated, but i'll get to that.
 
 ###What do both parties agree to do?
 
@@ -100,7 +100,7 @@ If either party chooses to end the project, it must be done in writing. Please k
 
 Just like a parking ticket, you cannot transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of Delhi courts.
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of New Delhi courts.
 
 ###The dotted line
 
@@ -110,7 +110,7 @@ Signed by [Shubham Bansal]
 
 
 __________________________________________________
-Signed by [DECISION MAKER] and on behalf of [CLIENT COMPANY]
+Signed by [Saurabh Shandilya] and on behalf of [Macher Labs]
 
 
 ####Dated [19th April 2018]
