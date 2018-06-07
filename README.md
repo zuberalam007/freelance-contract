@@ -10,7 +10,7 @@ I will always do our best to fulfill your needs and meet your goals, but sometim
 
 ####In short:
 
-You ([CLIENT COMPANY]) are hiring me (Shubham Bansal) to [PROJECT NAME OR DESCRIPTION] at the hourly rate of 20$ per hour. Of course it's a little more complicated, but we'll get to that.
+You FS2O, inc are hiring me (Shubham Bansal) to Cryptoclosings.com at the hourly rate of 20$ per hour. Of course it's a little more complicated, but we'll get to that.
 
 ###What do both parties agree to do?
 
@@ -108,7 +108,8 @@ Signed by Shubham Bansal
 
 
 __________________________________________________
-Signed by [DECISION MAKER] and on behalf of [CLIENT COMPANY]
+Signed by Alvin Tanpoco and on behalf of FS2O, inc
 
 
-####Dated [DATE]
+
+####Dated 8th June 2018
