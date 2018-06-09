@@ -77,7 +77,7 @@ When I receive your final payment, copyright is automatically assigned as follow
 
 You own the graphics and other visual elements that I create for you for this project. I will give you a copy of all files and you should store them safely as we are not required to keep them or provide any native source files that we used in making them.
 
-You also own text content, photographs and other data you provided, unless someone else owns them. I own the code we produced and I retain the rights to license it how I choose or to contribute it back to the open source project which it is based on.
+You also own text content, photographs and other data you provided, unless someone else owns them. You own the code I produced and I retain the rights to license it how I choose or to contribute it back to the open source project which it is based on.
 I love to show off our work and share what I have learned with other people, so I also reserve the right to display and link to your completed project as part of my portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course I'am happy to keep this information to ourselves until your project goes live or 6 months from the handover date, whichever is sooner.
 
 ###Payments
@@ -88,7 +88,7 @@ I am sure you understand how important it is as a small business that you pay th
 
 We bill every other week on Friday and all invoices are payable upon receipt.
 
-A deposit of $400 is due up front and will be subtracted from the last invoice.
+A deposit of $400 is due up in the stafront and will be subtracted from the last invoice.
 
 Any payments not received within 3 days will halt work until the payment is received. If payment is late once during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
