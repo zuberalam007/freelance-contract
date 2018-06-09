@@ -2,7 +2,7 @@
 
 shubhambansal17@hotmail.com
 
-8th June 2018
+10th June 2018
 
 ###Summary:
 
@@ -42,7 +42,7 @@ I write tests before I write my code, which allows me to make sure that all requ
 Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced I can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
 
 ####Timeline
-This project is scheduled to begin 9th June 2018 and will last a 3 weeks.
+This project is scheduled to begin 11th June 2018 and will last upto 3 weeks.
 Below is the milestone schedule:
 
 * Each Milestone is defined on the Trello by the consent of both of us.
