@@ -88,7 +88,7 @@ I am sure you understand how important it is as a small business that you pay th
 
 We bill every other week on Friday and all invoices are payable upon receipt.
 
-A deposit of $400 is due up in the stafront and will be subtracted from the last invoice.
+A deposit of $400 is due up front and will be subtracted from the last invoice.
 
 Any payments not received within 3 days will halt work until the payment is received. If payment is late once during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
