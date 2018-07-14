@@ -4,7 +4,7 @@ shubhambansal17@hotmail.com
 
 ###Summary:
 
-We will always do our best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. We have no desire to trick you into signing something that you might later regret. We do want what's best for the safety of both parties, now and in the future.
+I will always do my best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. We have no desire to trick you into signing something that you might later regret. We do want what's best for the safety of both parties, now and in the future.
 
 ####In short:
 
