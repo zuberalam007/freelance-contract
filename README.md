@@ -8,11 +8,11 @@ I will always do my best to fulfill your needs and meet your goals, but sometime
 
 ####In short:
 
-You Alok Ranjan are hiring me Shubham Bansal to Ohhodam website Sprint 1 at the complete cost of 35k. Of course it's a little more complicated, but we'll get to that.
+You Alok Ranjan are hiring me Shubham Bansal to work with Ioteraction Technologies Services Pvt Ltd for the project and Sprint 1 at the complete cost of 35k. Of course it's a little more complicated, but we'll get to that.
 
 ###What do both parties agree to do?
 
-As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that we need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that I set together. You also agree to stick to the payment schedule set out at the end of this contract.
+As my customer, you have the power and ability to enter into this contract on behalf of your company or organization(IoTeraction Technologies Services Pvt ltd). You agree to provide me with everything that we need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that I set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give us.
 
@@ -20,7 +20,7 @@ I have the experience and ability to perform the services you need from me and I
 
 ####What we need from you
 
-Below is a list of items I’ll need up front from you. Every project is slightly different, so there may be things I’ve missed from this list, but I will let you know as soon as I’am able if I’ve forgotten something we need.
+Below is a list of items I’ll need up front from you. Every project is slightly different, so there may be things I’ve missed from this list, but I will let you know as soon as I’m able if I’ve forgotten something we need.
 
 * HTML/CSS Frontend
 * DB Schema
@@ -70,7 +70,7 @@ Phew.
 
 ####Copyrights
 
-You guarantee to me that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide umes for inclusion in the application are either owned by your good selves, or that you have permission to use them.
+You guarantee to me that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide me for inclusion in the application are either owned by your good selves, or that you have permission to use them.
 
 When I receive your final payment, copyright is automatically assigned as follows:
 
@@ -106,5 +106,7 @@ Signed by Shubham Bansal
 __________________________________________________
 Signed by Alok Ranjan
 
+__________________________________________________
+Signed by Zuber Alam
 
 ####Dated 14th July 2018
